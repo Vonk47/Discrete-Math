@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: c93b98dd8231a9443b1d30e62037ccd1
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Carisma Inline
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 18f7af0bfdfe9e845866cb7b42b835a9, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

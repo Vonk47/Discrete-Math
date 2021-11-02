@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 2dafc4f46be240349b7450abb0ac3fd7
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Carisma Classic
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e5890af4a9a9bd54eba8b4f4973727b0, type: 3}
+  - {fileID: 12800000, guid: 1d087c4dd241c5c4fb38bb20cdd6abd6, type: 3}
+  - {fileID: 12800000, guid: 07785210f30a35d4fb5341f9ff0cb4e1, type: 3}
+  - {fileID: 12800000, guid: d82666c44e44e8b46a8fa7df89ab5f80, type: 3}
+  - {fileID: 12800000, guid: 59742aae77febbc4f9d07a071aaec82b, type: 3}
+  - {fileID: 12800000, guid: f12915ea51db70f4eb191a2cd2e1aa79, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
