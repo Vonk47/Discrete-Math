@@ -59,8 +59,7 @@ public class UIController : MonoBehaviour
     {
 
         Menu.transform.localPosition =new Vector3 (0, 0, 0);
-       // LosePopUpAnim.GetClip("ALODAUN");
-            LosePopUpAnim.Play("ALODAUN");
+            LosePopUpAnim.Play("1");
         Menu.SetActive(true);
         infoObj.SetActive(false);
         ParticleSys.SetActive(true);

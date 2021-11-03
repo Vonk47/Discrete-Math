@@ -224,7 +224,7 @@ public class LevelManager : MonoBehaviour
         else
         if (minus2 == 1 && valueB == 0)
         {
-            Debug.Log("CHANGED 2");
+         //    Debug.Log("CHANGED 2");
             valueB = 1;
         }
 
